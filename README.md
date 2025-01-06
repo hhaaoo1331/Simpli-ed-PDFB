@@ -1,0 +1,1 @@
+"The code implements the algorithm described in the following paper: 'Simplified Primal-Dual Forward-Backward Splitting Algorithm for Solving Structured Monotone Inclusion Problems with Applications'."
